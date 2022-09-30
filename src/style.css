@@ -1,4 +1,9 @@
-h1{
+
+body{
+    background-color: rgba(242, 255, 0, 0.956);;
+
+}
+    h1{
     text-align:center;
     font-family: 'Pacifico', cursive;
     font-size:30px;
